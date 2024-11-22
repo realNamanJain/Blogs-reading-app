@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081633417656",
+    "project_id": "blog-reading-app",
+    "storage_bucket": "blog-reading-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081633417656:android:4f3ce1816757dc181ec74d",
+        "android_client_info": {
+          "package_name": "com.example.blogreadingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPOcdFmSHA_jRCbc8oluNlMKjzr3Wrh_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
